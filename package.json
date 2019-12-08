@@ -1,7 +1,13 @@
 {
-  "name": "solana",
+  "name": "@avoori/solana",
+  "description": "Solana is a set of components built with Vue to develop various pages in Avoori.com",
+  "homepage": "https://avoori.com/",
+  "license" : "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/avoori/solana.git"
+  },
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
